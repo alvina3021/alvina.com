@@ -1,0 +1,6 @@
+{
+  "name": "Portofolio Profesional",
+  "description": "Aplikasi web portofolio profesional dan responsif dengan halaman Tentang, Pengalaman, Pendidikan, Penghargaan, Projek, Sertifikasi, dan Kontak.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
